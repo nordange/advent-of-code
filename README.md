@@ -1,5 +1,5 @@
-# advent-of-code
-My solutions to the yearly [Advent of Code](https://adventofcode.com) pre-Christmas fun
+# Advent of Code
+My solutions to the yearly [Advent of Code](https://adventofcode.com) pre-Christmas fun.
 
 I am using the [advent-of-code-data](https://pypi.org/project/advent-of-code-data/) package to download data.
 
