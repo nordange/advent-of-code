@@ -16,4 +16,5 @@ Each day consists of two puzzles, of which one can earn one star for solving eac
 | :heavy_check_mark: [Day 8](08) - [Treetop Tree House](https://adventofcode.com/2022/day/8) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 9](09) - [Rope Bridge](https://adventofcode.com/2022/day/9) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 10](10) - [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | ⭐ | ⭐ |
-| Day 11 - [Monkey in the Middle](https://adventofcode.com/2022/day/11) | | |
+| :heavy_check_mark: [Day 11](11) - [Monkey in the Middle](https://adventofcode.com/2022/day/11) | ⭐ | ⭐ |
+| Day 12 - [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | | |
