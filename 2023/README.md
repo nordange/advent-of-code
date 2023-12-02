@@ -7,3 +7,4 @@ Each day consists of two puzzles, of which one can earn one star for solving eac
 | Day | Part 1 | Part 2 |
 | --- | :---: | :---: |
 | :heavy_check_mark: [Day 1](01) - [Trebuchet?!](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ |
+| :heavy_check_mark: [Day 2](02) - [Cube Conundrum](https://adventofcode.com/2023/day/2) | ⭐ | ⭐ |
