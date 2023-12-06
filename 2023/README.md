@@ -11,3 +11,4 @@ Each day consists of two puzzles, of which one can earn one star for solving eac
 | :heavy_check_mark: [Day 3](03) - [Gear Ratios](https://adventofcode.com/2023/day/3) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 4](04) - [Scratchcards](https://adventofcode.com/2023/day/4) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 5](05) - [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | ⭐ | ⭐ |
+| :heavy_check_mark: [Day 6](06) - [Wait For It](https://adventofcode.com/2023/day/6) | ⭐ | ⭐ |
