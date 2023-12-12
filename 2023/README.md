@@ -15,3 +15,4 @@ Each day consists of two puzzles, of which one can earn one star for solving eac
 | :heavy_check_mark: [Day 7](07) - [Camel Cards](https://adventofcode.com/2023/day/7) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 8](08) - [Haunted Wasteland](https://adventofcode.com/2023/day/8) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 9](09) - [Mirage Maintenance](https://adventofcode.com/2023/day/9) | ⭐ | ⭐ |
+| :heavy_check_mark: [Day 10](10) - [Pipe Maze](https://adventofcode.com/2023/day/10) | ⭐ | ⭐ |
