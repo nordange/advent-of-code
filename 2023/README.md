@@ -17,3 +17,4 @@ Each day consists of two puzzles, of which one can earn one star for solving eac
 | :heavy_check_mark: [Day 9](09) - [Mirage Maintenance](https://adventofcode.com/2023/day/9) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 10](10) - [Pipe Maze](https://adventofcode.com/2023/day/10) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 11](11) - [Cosmic Expansion](https://adventofcode.com/2023/day/11) | ⭐ | ⭐ |
+| :heavy_check_mark: [Day 12](12) - [Hot Springs](https://adventofcode.com/2023/day/12) | ⭐ | ⭐ |
