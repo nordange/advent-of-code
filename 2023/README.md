@@ -19,3 +19,4 @@ Each day consists of two puzzles, of which one can earn one star for solving eac
 | :heavy_check_mark: [Day 11](11) - [Cosmic Expansion](https://adventofcode.com/2023/day/11) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 12](12) - [Hot Springs](https://adventofcode.com/2023/day/12) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 13](13) - [Point Of Incidence](https://adventofcode.com/2023/day/13) | ⭐ | ⭐ |
+| :heavy_check_mark: [Day 14](14) - [Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) | ⭐ | ⭐ |
