@@ -23,3 +23,4 @@ Each day consists of two puzzles, of which one can earn one star for solving eac
 | :heavy_check_mark: [Day 15](15) - [Lens Library](https://adventofcode.com/2023/day/15) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 16](16) - [The Floor Will Be Lava](https://adventofcode.com/2023/day/16) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 17](17) - [Clumsy Crucible](https://adventofcode.com/2023/day/17) | ⭐ | ⭐ |
+| :heavy_check_mark: [Day 18](18) - [Lavaduct Lagoon](https://adventofcode.com/2023/day/18) | ⭐ | ⭐ |
