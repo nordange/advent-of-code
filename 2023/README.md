@@ -26,3 +26,4 @@ Each day consists of two puzzles, of which one can earn one star for solving eac
 | :heavy_check_mark: [Day 18](18) - [Lavaduct Lagoon](https://adventofcode.com/2023/day/18) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 19](19) - [Aplenty](https://adventofcode.com/2023/day/19) | ⭐ | ⭐ |
 | :heavy_check_mark: [Day 20](20) - [Pulse Propagation](https://adventofcode.com/2023/day/20) | ⭐ | ⭐ |
+| :heavy_check_mark: [Day 21](21) - [Step Counter](https://adventofcode.com/2023/day/21) | ⭐ | |
